@@ -1,0 +1,17 @@
+{
+    "selene_nr": {
+        "name": "Lara Diaz",
+        "country": "De",
+        "level": "Pro"
+    },
+    "sanchez_ata": {
+        "name": "Ata Sanchez",
+        "country": "AR",
+        "level": "Pro"
+    },
+    "carobsts": {
+        "name": "Caro Bustos",
+        "country": "AR",
+        "level": "Pro"
+    }
+}
